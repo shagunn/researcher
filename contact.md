@@ -3,11 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [shagun.gupta@mail.utoronto.ca](mailto:shagun.gupta@mail.utoronto.ca)
 
-* Phone: [+91-123123](tel:+91-123123)
+* [Github](https://github.com/shagunn)
 
----
+* [LinkedIn](https://www.linkedin.com/in/shagunxgupta/)
+
+<!-- ---
 
 ## Mailing Address
 
@@ -23,4 +25,4 @@ is_contact: true
 
 1. [Facebook](#)
 2. [Twitter](#)
-3. [Google+](#)
+3. [Google+](#) -->

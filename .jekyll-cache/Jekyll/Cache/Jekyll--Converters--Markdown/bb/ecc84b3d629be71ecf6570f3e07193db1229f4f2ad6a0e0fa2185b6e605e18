@@ -1,0 +1,113 @@
+I"�<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="headshot.jpg" /></p>
+
+<p>Hi! I am an applied machine learning researcher with experience in computer vision, clinical-time series modelling, NLP, PGMs, and machine learning for healthcare.</p>
+
+<p>I recently completed my MASc from <a href="https://www.mie.utoronto.ca">University of Toronto</a> in the <a href="https://d3m.mie.utoronto.ca">Data-Driven Decision Making Lab</a> under <a href="https://d3m.mie.utoronto.ca/members/ssanner/">Prof. Scott Sanner</a> with a focus on ML for Health, and previously my H.BSc in molecular genetics and neuroscience.</p>
+
+<h2 id="research">Research</h2>
+<p>Previous research experiences…</p>
+<ul>
+  <li><a href="https://d3m.mie.utoronto.ca">Data-Driven Decision Making Lab</a> under <a href="https://d3m.mie.utoronto.ca/members/ssanner/">Prof. Scott Sanner</a></li>
+  <li>Research assistant @ <a href="https://www.ices.on.ca">ICES</a> under <a href="https://sunnybrook.ca/research/team/member.asp?t=11&amp;m=99&amp;page=178">Dr. Dennis Ko</a></li>
+  <li><a href="http://pophealthanalytics.com">Population health analytics</a> supervised by <a href="https://ihpme.utoronto.ca/faculty/laura-c-rosella/">Dr. Laura Rosella</a></li>
+  <li>Project Consultant &amp; Manager for the Robotics Program @ <a href="https://www.hollandbloorview.ca/services/programs-services/robotics">Holland Bloorview Kids Rehab Hospital</a></li>
+  <li>Research assistant in the <a href="https://fraserlab.squarespace.com">Fraser Lab (Genomics)</a> supervised by <a href="http://www.moleculargenetics.utoronto.ca/faculty/2014/10/1/andrew-fraser">Dr. Andy Fraser</a></li>
+</ul>
+
+<h2 id="publications--talks">Publications &amp; Talks</h2>
+
+<!-- 1. **Shagun Gupta**, Dennis Ko, Paymon Azizi et al. “_Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data_”. Canadian Journal of Cardiology, 2019. {[paper](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583)} -->
+<ol>
+  <li>
+    <p><strong>Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data</strong>.<br />
+ Shagun Gupta, Dennis Ko, Paymon Azizi et al. <em>Canadian Journal of Cardiology</em>, 2019. {<a href="https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583">paper</a>}</p>
+  </li>
+  <li>
+    <p><strong>Bayesian Networks for Data Integration in the Absence of Foreign Keys</strong>.<br />
+ Bohan Zhang, Scott Sanner, <strong>Shagun Gupta</strong>. “ IEEE Transactions on Knowledge and Data Engineering, 2019. {<a href="https://ieeexplore.ieee.org/document/8827945">paper</a>}</p>
+  </li>
+  <li>
+    <p><strong>Classification for Healthcare Using Linked and Unlinked Data Sources</strong>.<br />
+ Shagun Gupta. M.A.Sc. Thesis, 2019. {<a href="https://tspace.library.utoronto.ca/handle/1807/98054">paper</a>}</p>
+  </li>
+  <li>Shagun Gupta, Laura Rosella, Scott Sanner. “Data Integration for Population Health Risk Prediction Tasks” [In submission].</li>
+  <li>“Risk Prediction for Healthcare using Linked and Unlinked Data Sources”. Presentation at the Population Health Analytics Speaker Series, October 2019. {<a href="Talk_PopHealthLab_Oct2019.pdf">slides</a>}</li>
+  <li>“Intro to ML for Clinicians”. Presentation at ICES Sunnybrook, May 2019.</li>
+  <li>Shagun Gupta, Scott Sanner, Dennis Ko. “Readmission and mortality prediction for patients with ACS”. Poster at EMHSeed SEEDing Innovation Event, June 2019 and the Engineering Health Day, October 2018.</li>
+  <li>Shagun Gupta. ”A Pharmacological Approach to Dissecting the Neuromodulation of Locomotary Circuits in C. elegans.” H.B.Sc Thesis, April 2016. {<a href="Gupta_Shagun_201604_MGY_thesis.pdf">paper</a>}</li>
+</ol>
+
+<h2 id="projects">Projects</h2>
+
+<h3 id="machine-learning">Machine Learning</h3>
+<ul>
+  <li><strong>[Time-series modelling]</strong> DeepICU: Clinical Event Prediction in the ICU</li>
+  <li><strong>[Computer vision]</strong> Automated Chest X-Ray Interpretation using CNNs</li>
+  <li>Project 3 <strong>[Computer vision]</strong></li>
+  <li>Project Title <strong>[Computer vision]</strong></li>
+  <li><strong>[NLP]</strong> Exploring A Data-Driven Method to Validate Rhetorical Structure Theory. {<a href="https://www.aclweb.org/anthology/W19-1911">paper</a> &amp; <a href="./posters/poster_v5.pdf">code</a>}</li>
+  <li><strong>[ML for Health]</strong> Predicting ICU Readmission using Deep Learning {<a href="http://aclweb.org/anthology/D18-1304">paper</a>} {<a href="https://drive.google.com/file/d/1Vr5JoDLw36RYSWdD_6zsWgnzpYtvb4lI/view">slides</a>}</li>
+  <li>Latent variable modelling for readmission prediction</li>
+  <li>
+    <p>BayesNet Toolbox</p>
+  </li>
+  <li>
+    <p><strong>[Time-series modelling]</strong> DeepICU: Clinical Event Prediction in the ICU</p>
+
+    <p>Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data from the openly available MIMIC-III database. {<a href="https://www.aclweb.org/anthology/W19-1911">paper</a> &amp; <a href="./posters/poster_v5.pdf">code</a>}</p>
+  </li>
+</ul>
+
+<details>
+<summary>
+Automated Chest X-Ray Interpretation using CNNs <b>[Computer vision]</b>
+<!-- <a href="http://www.ironspider.ca/format_text/fontstyles.htm">
+Useful Source</a> -->
+</summary>
+<p>Add some project details over here... maybe some links??  <a href="http://www.ironspider.ca/format_text/fontstyles.htm">
+paper &amp; code </a></p>
+</details>
+
+<h3 id="hackathons">Hackathons</h3>
+<ul>
+  <li><strong>[DataViz]</strong> WaterMinder.{<a href="ftp://ftp.db.toronto.edu/public_html/cs/ftp/dist/gh/torontocl-clef-2018.pdf">paper</a>}</li>
+  <li>GoSolar (Microsoft Challenge)</li>
+  <li>Octagon Health Data Science Challenge, UTM, 3rd place</li>
+</ul>
+
+<!--
+This is a [link](http://google.com). Something *italics* and something **bold**.
+
+Here is a table
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+Here is a horizontal rule
+
+---
+
+Here is a blockquote
+
+> To a great mind, nothing is little
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+## collapsible markdown?
+<details>
+<summary>
+<i>Like this? </i>
+<a href="http://www.ironspider.ca/format_text/fontstyles.htm">
+Useful Source</a>
+</summary>
+<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+</details> -->
+:ET
