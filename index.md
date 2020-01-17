@@ -48,24 +48,24 @@ Previous experiences...
 
 ### Machine Learning
 * **DeepICU: Clinical Event Prediction in the ICU** [Time-series modelling] <br/>
-    Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III).
+    This project uses deep learning to improve predictions for clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III).
 
 * **Automated Chest X-Ray Interpretation using CNNs** [Computer vision] <br/>
-    Implemented a CNN model to detect diseases in chest x- rays; used attention maps to highlight predictive areas. <br/>
+    Implemented a CNN model to detect various diseases in chest x- rays; used attention maps to highlight predictive areas. <br/>
 
-* **Cellular imaging project** [Computer vision] <br/>
-    Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III). <br/>
-
-* **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br style="line-height: 30px" />
-    Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigate the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br/>
-    {[paper]() & [GitHub]()}
+<!-- * **Cellular imaging project** [Computer vision] <br/>
+    Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III). <br/> -->
+<!-- <br style="line-height: 30px" /> -->
+* **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br/>
+    Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigated the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br/>
+    {[paper](files/NLP_Project.pdf) & [GitHub](https://github.com/csc2511project/DiscourseProject)}
 
 * **Predicting ICU Readmission using Deep Learning** [ML for Health] <br/>
     Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data. In particular, this study compares deep neural networks (DNNs) against the baseline measure, Stability and Workload Index for Transfers (SWIFT) on different readmission time frames. <br/>
     {[paper]() & [GitHub]()}
 
 * **Latent variable modelling for readmission prediction** [PGMs] <br/>
-    This project exxamined whether latent variable modelling can help discover a low dimensional latent space that improves readmission classification. <br/>
+    This project examined whether latent variable modelling could help discover a low dimensional latent space that improves readmission classification. <br/>
     {[GitHub]()}
 
 * **BayesNet Toolbox** [PGMs] <br/>
@@ -77,7 +77,7 @@ Previous experiences...
 ### Other
 * **SmoothFlow**, Biomedical Engineering Capstone Design <br/>
     Designed and prototyped a novel device to clear occuluded enteral feeding tubes; performed 50+ hours of clinical observations at the University Health Network hospitals and SickKids to identify clinical needs. <br/>
-    {[slides]()}
+    {[slides](files/BME_Final_Pitch.pdf)}
 
 * **WaterMinder** [DataViz] <br/>
     Call of Data Hackathon {[website]()}

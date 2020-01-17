@@ -1,13 +1,13 @@
 ---
 layout: default
-is_contact: true
+is_contact: false
 ---
 
-* Email: [shagun.gupta@mail.utoronto.ca](mailto:shagun.gupta@mail.utoronto.ca)
+* Email: []()
 
-* [Github](https://github.com/shagunn)
+* [Github]()
 
-* [LinkedIn](https://www.linkedin.com/in/shagunxgupta/)
+* [LinkedIn]()
 
 <!-- ---
 
