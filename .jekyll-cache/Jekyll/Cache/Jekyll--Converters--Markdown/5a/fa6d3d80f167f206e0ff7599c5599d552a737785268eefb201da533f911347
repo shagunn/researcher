@@ -1,0 +1,136 @@
+I"µ<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="files/headshot.jpg" /></p>
+
+<p>Hi! I am an applied machine learning researcher interested in novel approaches for improving healthcare delivery.</p>
+
+<p>I recently graduated with a M.A.Sc. from University of Toronto, advised by <a href="https://d3m.mie.utoronto.ca/members/ssanner/">Scott Sanner</a> in the <a href="https://d3m.mie.utoronto.ca">Data-Driven Decision Making Lab</a>, with a focus on ML for Health. Previously I completed by H.B.Sc. in molecular genetics and<br />neuroscience from UofT.</p>
+
+<h2 id="research">Research</h2>
+<p>Previous experiencesâ€¦</p>
+<ul>
+  <li><a href="https://d3m.mie.utoronto.ca">Data-Driven Decision Making Lab</a> under <a href="https://d3m.mie.utoronto.ca/members/ssanner/">Dr. Scott Sanner</a></li>
+  <li>Research assistant @ <a href="https://www.ices.on.ca">ICES</a> under <a href="https://sunnybrook.ca/research/team/member.asp?t=11&amp;m=99&amp;page=178">Dr. Dennis Ko</a></li>
+  <li><a href="http://pophealthanalytics.com">Population health analytics</a> under <a href="https://ihpme.utoronto.ca/faculty/laura-c-rosella/">Dr. Laura Rosella</a></li>
+  <li>Project Consultant &amp; Manager for the <a href="https://www.hollandbloorview.ca/services/programs-services/robotics">Robotics Program</a> @ Holland Bloorview Kids Rehab Hospital</li>
+  <li>Research assistant in the <a href="https://fraserlab.squarespace.com">Fraser Lab (Genomics)</a> supervised by <a href="http://www.moleculargenetics.utoronto.ca/faculty/2014/10/1/andrew-fraser">Dr. Andy Fraser</a></li>
+</ul>
+
+<h2 id="publications--talks">Publications &amp; Talks</h2>
+
+<ol>
+  <li>
+    <p><strong>Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data</strong>.<br />
+ Shagun Gupta, Dennis Ko, Paymon Azizi et al. <em>Canadian Journal of Cardiology</em>, 2019. {<a href="https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583">journal paper</a>}</p>
+  </li>
+  <li>
+    <p><strong>Bayesian Networks for Data Integration in the Absence of Foreign Keys</strong>.<br />
+ Bohan Zhang, Scott Sanner, Shagun Gupta. <em>IEEE Transactions on Knowledge and Data Engineering</em>, 2019. {<a href="https://ieeexplore.ieee.org/document/8827945">journal paper</a>}</p>
+  </li>
+  <li>
+    <p><strong>Classification for Healthcare Using Linked and Unlinked Data Sources</strong>.<br />
+ Shagun Gupta. <em>M.A.Sc. Thesis</em>, 2019. {<a href="https://tspace.library.utoronto.ca/handle/1807/98054">paper</a>}</p>
+  </li>
+  <li>
+    <p><strong>Data Integration for Population Health Risk Prediction Tasks</strong>. <br />
+ Shagun Gupta, Laura Rosella, Scott Sanner. [In submission].</p>
+  </li>
+  <li>
+    <p><strong>Risk Prediction for Healthcare using Linked and Unlinked Data Sources</strong>. <br />
+ Presentation at the <em>Population Health Analytics Speaker Series</em>, October 2019. {<a href="files/Talk_PopHealthLab_Oct2019.pdf">slides</a>}</p>
+  </li>
+  <li>
+    <p><strong>Readmission and mortality prediction for patients with ACS</strong>. <br />
+ Shagun Gupta, Scott Sanner, Dennis Ko. Poster at <em>EMHSeed SEEDing Innovation Event</em>, June 2019 and the <em>UofT Engineering Health Day</em>, October 2018.</p>
+  </li>
+  <li>
+    <p><strong>A Pharmacological Approach to Dissecting the Neuromodulation of Locomotary Circuits in C. elegans</strong>.<br />
+ Shagun Gupta. HBSc Molecular Genetics Thesis, April 2016. {<a href="files/Gupta_Shagun_201604_MGY_thesis.pdf">paper</a>}</p>
+  </li>
+</ol>
+
+<h2 id="projects">Projects</h2>
+
+<h3 id="machine-learning">Machine Learning</h3>
+<ul>
+  <li>
+    <p><strong>DeepICU: Clinical Event Prediction in the ICU</strong> [Time-series modelling] <br />
+  Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III).</p>
+  </li>
+  <li>
+    <p><strong>Automated Chest X-Ray Interpretation using CNNs</strong> [Computer vision] <br />
+  Implemented a CNN model to detect diseases in chest x- rays; used attention maps to highlight predictive areas.</p>
+  </li>
+  <li>
+    <p><strong>Cellular imaging project</strong> [Computer vision]
+  Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III).</p>
+  </li>
+  <li>
+    <p><strong>Exploring A Data-Driven Method to Validate Rhetorical Structure Theory</strong> [NLP] <br style="line-height: 30px" />
+  Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigate the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br />
+  {<a href="">paper</a> &amp; <a href="">GitHub</a>}</p>
+  </li>
+  <li>
+    <p><strong>Predicting ICU Readmission using Deep Learning</strong> [ML for Health] <br />
+  Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data. In particular, this study compares deep neural networks (DNNs) against the baseline measure, Stability and Workload Index for Transfers (SWIFT) on different readmission time frames.
+  {<a href="">paper</a> &amp; <a href="">GitHub</a>}</p>
+  </li>
+  <li>
+    <p><strong>Latent variable modelling for readmission prediction</strong> [PGMs] <br />
+  This project exxamined whether latent variable modelling can help discover a low dimensional latent space that improves readmission classification.
+  {<a href="">GitHub</a>}</p>
+  </li>
+  <li>
+    <p><strong>BayesNet Toolbox</strong> [PGMs] <br />
+  Implemented algorithms for bayesian network inference.
+  {<a href="">GitHub</a>}</p>
+  </li>
+</ul>
+
+<h3 id="other">Other</h3>
+<ul>
+  <li>
+    <p>WaterMinder (Call of Data Hackathon) {<a href="">website</a>}</p>
+  </li>
+  <li>
+    <p>GoSolar (Microsoft AI Challenge) {<a href="files/Microsoft_AI_SlideDeck.pdf">slides</a>}</p>
+  </li>
+  <li>
+    <p>Octagon Health Data Science Challenge, UTM, 3rd place</p>
+  </li>
+</ul>
+
+<!--
+This is a [link](http://google.com). Something *italics* and something **bold**.
+
+Here is a table
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+Here is a horizontal rule
+
+---
+
+Here is a blockquote
+
+> To a great mind, nothing is little
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+## collapsible markdown?
+<details>
+<summary>
+<i>Like this? </i>
+<a href="http://www.ironspider.ca/format_text/fontstyles.htm">
+Useful Source</a>
+</summary>
+<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+</details> -->
+:ET

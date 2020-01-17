@@ -47,35 +47,45 @@ Previous experiences...
 ## Projects
 
 ### Machine Learning
-* **DeepICU: Clinical Event Prediction in the ICU** [Time-series modelling]
+* **DeepICU: Clinical Event Prediction in the ICU** [Time-series modelling] <br/>
+    Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III).
 
-* **Automated Chest X-Ray Interpretation using CNNs** [Computer vision]
+* **Automated Chest X-Ray Interpretation using CNNs** [Computer vision] <br/>
+    Implemented a CNN model to detect diseases in chest x- rays; used attention maps to highlight predictive areas. <br/>
 
-    Implemented a CNN model to detect diseases in chest x- rays; used attention maps to highlight predictive areas.
+* **Cellular imaging project** [Computer vision] <br/>
+    Applied CNN + RNN deep models to predict clinical interventions and patient mortality in the ICU using multimodal clinical data (MIMIC-III). <br/>
 
-* **Cellular imaging project** [Computer vision]
+* **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br style="line-height: 30px" />
+    Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing in NLP research. In this project, we investigate the validity of the RST framework using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model. <br/>
+    {[paper]() & [GitHub]()}
 
-* **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br/>
-    Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing that has been extensively used in natural language computing research. In this paper, we investigate the validity of the RST framework for discourse parsing using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model.
- {[paper]() & [code]()}
+* **Predicting ICU Readmission using Deep Learning** [ML for Health] <br/>
+    Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data. In particular, this study compares deep neural networks (DNNs) against the baseline measure, Stability and Workload Index for Transfers (SWIFT) on different readmission time frames. <br/>
+    {[paper]() & [GitHub]()}
 
-* **[NLP]** Exploring A Data-Driven Method to Validate Rhetorical Structure Theory. {[paper]() & [code]()}
+* **Latent variable modelling for readmission prediction** [PGMs] <br/>
+    This project exxamined whether latent variable modelling can help discover a low dimensional latent space that improves readmission classification. <br/>
+    {[GitHub]()}
 
-* **[ML for Health]** Predicting ICU Readmission using Deep Learning {[paper]()}
+* **BayesNet Toolbox** [PGMs] <br/>
+    Implemented algorithms for bayesian network inference.  <br/>
+    {[GitHub]()}
+    <br/>
+    <br/>
 
-* **Latent variable modelling for readmission prediction** [PGMs]
+### Other
+* **SmoothFlow**, Biomedical Engineering Capstone Design <br/>
+    Designed and prototyped a novel device to clear occuluded enteral feeding tubes; performed 50+ hours of clinical observations at the University Health Network hospitals and SickKids to identify clinical needs. <br/>
+    {[slides]()}
 
-* **BayesNet Toolbox** [PGMs]
+* **WaterMinder** [DataViz] <br/>
+    Call of Data Hackathon {[website]()}
 
-* **DeepICU: Clinical Event Prediction in the ICU** [ML for Health] <br/>
-    Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data from the openly available MIMIC-III database. {[paper](https://www.aclweb.org/anthology/W19-1911) & [code](./posters/poster_v5.pdf)}
+* **GoSolar** <br/>
+    Microsoft AI Challenge {[slides](files/Microsoft_AI_SlideDeck.pdf)}
 
-### Hackathons
-* **[DataViz]** WaterMinder {[website]()}
-
-* GoSolar (Microsoft Challenge) {[slides](files/Microsoft_AI_SlideDeck.pdf)}
-
-* Octagon Health Data Science Challenge, UTM, 3rd place
+* **Octagon Health Data Science Challenge**, UTM, 3rd place
 
 <!--
 This is a [link](http://google.com). Something *italics* and something **bold**.
