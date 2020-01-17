@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/researcher"
  - name: "Github"
    link: "https://github.com/shagunn"
  - name: "LinkedIn"
