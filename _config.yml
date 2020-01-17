@@ -1,6 +1,6 @@
 title: Shagun Gupta
 url: "https://ankitsultana.com"
-baseurl: "/about"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,14 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/files/researcher/"
+ - name: "Github"
+   link: "https://github.com/shagunn"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/shagunxgupta/"
+ - name: "Email"
+   link: "mailto:shagun.gupta@mail.utoronto.ca"
+
+
+ # - name: "Contact"
+ #   link: "contact"
