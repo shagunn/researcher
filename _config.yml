@@ -1,6 +1,6 @@
 title: Shagun Gupta
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://shagunn.github.io/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher"
+ # - name: "About"
+ #   link: "/researcher"
  - name: "Github"
    link: "https://github.com/shagunn"
  - name: "LinkedIn"
