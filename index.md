@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="headshot.jpg">
+<img class="profile-picture" src="files/headshot.jpg">
 
 Hi! I am an applied machine learning researcher interested in novel approaches for improving healthcare delivery.
 
@@ -22,7 +22,6 @@ Previous experiences...
 
 ## Publications & Talks
 
-<!-- 1. **Shagun Gupta**, Dennis Ko, Paymon Azizi et al. “_Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data_”. Canadian Journal of Cardiology, 2019. {[paper](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583)} -->
 1. **Evaluation of Machine Learning Algorithms for Predicting Readmission after Acute Myocardial Infarction Using Routinely Collected Clinical Data**.<br/>
     Shagun Gupta, Dennis Ko, Paymon Azizi et al. _Canadian Journal of Cardiology_, 2019. {[journal paper](https://www.sciencedirect.com/science/article/abs/pii/S0828282X19313583)}
 
@@ -36,13 +35,13 @@ Previous experiences...
     Shagun Gupta, Laura Rosella, Scott Sanner. [In submission].
 
 5. **Risk Prediction for Healthcare using Linked and Unlinked Data Sources**. <br/>
-    Presentation at the _Population Health Analytics Speaker Series_, October 2019. {[slides](Talk_PopHealthLab_Oct2019.pdf)}
-<!-- 6. “Intro to ML for Clinicians”. Presentation at ICES Sunnybrook, May 2019. -->
+    Presentation at the _Population Health Analytics Speaker Series_, October 2019. {[slides](files/Talk_PopHealthLab_Oct2019.pdf)}
+
 6. **Readmission and mortality prediction for patients with ACS**. <br/>
     Shagun Gupta, Scott Sanner, Dennis Ko. Poster at _EMHSeed SEEDing Innovation Event_, June 2019 and the _UofT Engineering Health Day_, October 2018.
 
 7. **A Pharmacological Approach to Dissecting the Neuromodulation of Locomotary Circuits in C. elegans**.<br/>
-    Shagun Gupta. HBSc Molecular Genetics Thesis, April 2016. {[paper](Gupta_Shagun_201604_MGY_thesis.pdf)}    
+    Shagun Gupta. HBSc Molecular Genetics Thesis, April 2016. {[paper](files/Gupta_Shagun_201604_MGY_thesis.pdf)}    
 
 
 ## Projects
@@ -58,11 +57,11 @@ Previous experiences...
 
 * **Exploring A Data-Driven Method to Validate Rhetorical Structure Theory** [NLP] <br/>
     Rhetorical Structure Theory (RST) is an explanatory theory for discourse parsing that has been extensively used in natural language computing research. In this paper, we investigate the validity of the RST framework for discourse parsing using a data-driven approach by leveraging BERT, a pre-trained deeply bidirectional, unsupervised language representation model.
- {[paper](https://www.aclweb.org/anthology/W19-1911) & [code](./posters/poster_v5.pdf)}
+ {[paper]() & [code]()}
 
-* **[NLP]** Exploring A Data-Driven Method to Validate Rhetorical Structure Theory. {[paper](https://www.aclweb.org/anthology/W19-1911) & [code](./posters/poster_v5.pdf)}
+* **[NLP]** Exploring A Data-Driven Method to Validate Rhetorical Structure Theory. {[paper]() & [code]()}
 
-* **[ML for Health]** Predicting ICU Readmission using Deep Learning {[paper](http://aclweb.org/anthology/D18-1304)} {[slides](https://drive.google.com/file/d/1Vr5JoDLw36RYSWdD_6zsWgnzpYtvb4lI/view)}
+* **[ML for Health]** Predicting ICU Readmission using Deep Learning {[paper]()}
 
 * **Latent variable modelling for readmission prediction** [PGMs]
 
@@ -71,20 +70,11 @@ Previous experiences...
 * **DeepICU: Clinical Event Prediction in the ICU** [ML for Health] <br/>
     Unplanned readmissions to intensive care units (ICU) are costly and result in poor patient outcomes. The aim of this study was to develop a tool for predicting patients at high risk for ICU readmission using clinical data from the openly available MIMIC-III database. {[paper](https://www.aclweb.org/anthology/W19-1911) & [code](./posters/poster_v5.pdf)}
 
-
-<details>
-<summary>
-Automated Chest X-Ray Interpretation using CNNs <b>[Computer vision]</b>
-<!-- <a href="http://www.ironspider.ca/format_text/fontstyles.htm">
-Useful Source</a> -->
-</summary>
-<p>Add some project details over here... maybe some links??  <a href="http://www.ironspider.ca/format_text/fontstyles.htm">
-paper & code </a></p>
-</details>
-
 ### Hackathons
-* **[DataViz]** WaterMinder.{[paper](ftp://ftp.db.toronto.edu/public_html/cs/ftp/dist/gh/torontocl-clef-2018.pdf)}
-* GoSolar (Microsoft Challenge)
+* **[DataViz]** WaterMinder {[website]()}
+
+* GoSolar (Microsoft Challenge) {[slides](files/Microsoft_AI_SlideDeck.pdf)}
+
 * Octagon Health Data Science Challenge, UTM, 3rd place
 
 <!--
